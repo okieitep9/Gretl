@@ -211,4 +211,4 @@ Gretl is offered as a full free version with all features and updates included. 
 Unlock your potential with Gretl today! Download now and start your journey in econometric analysis!
 
 ---
-**Last updated:** 2026-11-12 23:24:04 UTC
+**Last updated:** 2026-11-13 05:57:57 UTC
